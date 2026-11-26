@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Scotch Text Bd';
+  src: url('..fonts/ScotchTextComp-Bd.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Scotch Text Ltlt';
+    src: url('..fonts/ScotchTextComp-Ltlt.ttf') format('truetype');
+}
